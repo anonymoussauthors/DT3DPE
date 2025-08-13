@@ -10,7 +10,7 @@ Text-to-motion generation has improved, but current methods struggle with realis
 
 The DT3DPE framework works as follows: (a) The input text describes an action, such as a person walking forward. (b) A movement residual is generated based on the input text. (c) The masked transformer and residual transformer process this residual to produce motion tokens and refine the motion details. (d) The final output is a detailed and coherent animation that accurately reflects the described action.
 
-<img style="max-width: 100%;" src="https://github.com/swerizwan/DT3DPE/blob/main/resources/overview.png" alt="VERHM Overview">
+<img style="max-width: 100%;" src="https://github.com/anonymoussauthors/DT3DPE/blob/main/resources/overview.png" alt="VERHM Overview">
 
 # Installation
 
@@ -54,55 +54,55 @@ Qualitative results demonstrating DT3DPE's capability to synthesize human moveme
     <td style="text-align: center;">
       <p>The person raises both arms up, claps their hands together,
        and takes two steps forward.</p>
-      <img width="165" src="https://github.com/swerizwan/DT3DPE/blob/main/resources/1.gif" alt="Happy">
+      <img width="165" src="https://github.com/anonymoussauthors/DT3DPE/blob/main/resources/1.gif" alt="Happy">
     </td>
     <td style="text-align: center;">
       <p>A person bends down, touches his toes, and stands back up.</p>
-      <img width="165" src="https://github.com/swerizwan/DT3DPE/blob/main/resources/2.gif" alt="Sad">
+      <img width="165" src="https://github.com/anonymoussauthors/DT3DPE/blob/main/resources/2.gif" alt="Sad">
     </td>
     <td style="text-align: center;">
       <p>The man walks forward, turns to his left, and raises both arms up.</p>
-      <img width="165" src="https://github.com/swerizwan/DT3DPE/blob/main/resources/3.gif" alt="Angry">
+      <img width="165" src="https://github.com/anonymoussauthors/DT3DPE/blob/main/resources/3.gif" alt="Angry">
     </td>
       <td style="text-align: center;">
       <p>A person stretches both arms out to the sides and spins around.</p>
-      <img width="165" src="https://github.com/swerizwan/DT3DPE/blob/main/resources/4.gif" alt="Angry">
+      <img width="165" src="https://github.com/anonymoussauthors/DT3DPE/blob/main/resources/4.gif" alt="Angry">
     </td>
   </tr>
     <tr>
     <td style="text-align: center;">
       <p>The person hops on his right foot, then lands on both feet.</p>
-      <img width="165" src="https://github.com/swerizwan/DT3DPE/blob/main/resources/5.gif" alt="Happy">
+      <img width="165" src="https://github.com/anonymoussauthors/DT3DPE/blob/main/resources/5.gif" alt="Happy">
     </td>
     <td style="text-align: center;">
       <p>A person kicks with right leg, kneels down, and stands back up.</p>
-      <img width="165" src="https://github.com/swerizwan/DT3DPE/blob/main/resources/6.gif" alt="Frustrated">
+      <img width="165" src="https://github.com/anonymoussauthors/DT3DPE/blob/main/resources/6.gif" alt="Frustrated">
     </td>
     <td style="text-align: center;">
       <p>The person lifts his left leg, kicks forward, and then steps back.</p>
-      <img width="165" src="https://github.com/swerizwan/DT3DPE/blob/main/resources/7.gif" alt="Sad">
+      <img width="165" src="https://github.com/anonymoussauthors/DT3DPE/blob/main/resources/7.gif" alt="Sad">
     </td>
     <td style="text-align: center;">
       <p>A person raises his right hand, waves, and walks away.</p>
-      <img width="165" src="https://github.com/swerizwan/DT3DPE/blob/main/resources/8.gif" alt="Angry">
+      <img width="165" src="https://github.com/anonymoussauthors/DT3DPE/blob/main/resources/8.gif" alt="Angry">
     </td>
   </tr>
   <tr>
     <td style="text-align: center;">
       <p>The man crouches down, reaches forward, and stands back up.</p>
-      <img width="165" src="https://github.com/swerizwan/DT3DPE/blob/main/resources/9.gif" alt="Happy">
+      <img width="165" src="https://github.com/anonymoussauthors/DT3DPE/blob/main/resources/9.gif" alt="Happy">
     </td>
     <td style="text-align: center;">
       <p>A person performs jumping jacks.</p>
-      <img width="165" src="https://github.com/swerizwan/DT3DPE/blob/main/resources/10.gif" alt="Frustrated">
+      <img width="165" src="https://github.com/anonymoussauthors/DT3DPE/blob/main/resources/10.gif" alt="Frustrated">
     </td>
     <td style="text-align: center;">
       <p>The person spins left in place and then raises both arms.</p>
-      <img width="165" src="https://github.com/swerizwan/DT3DPE/blob/main/resources/11.gif" alt="Sad">
+      <img width="165" src="https://github.com/anonymoussauthors/DT3DPE/blob/main/resources/11.gif" alt="Sad">
     </td>
     <td style="text-align: center;">
       <p>The person steps forward and walks back.</p>
-      <img width="165" src="https://github.com/swerizwan/DT3DPE/blob/main/resources/12.gif" alt="Angry">
+      <img width="165" src="https://github.com/anonymoussauthors/DT3DPE/blob/main/resources/12.gif" alt="Angry">
     </td>
   </tr>
 </table>
